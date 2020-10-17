@@ -1,0 +1,18 @@
+{% extends "portfolio/base.html" %}
+{% load static %}
+{% block content %}
+    <div >
+{#   {% for p in pdfs %}#}
+{#       <iframe src="{{ pdf.pdf }}" height="500" width="700"></iframe>#}
+{#       <embed src="//F:\####MYCourses\personal_portfolio/media/resume/pdf/resume.pdf" width="900px" height="1000"/>#}
+{#        {{ p.date }}#}
+{#        {{ p.pdf.path }}#}
+{##}
+{#        <iframe src="/{{ my_media_root }}/resume/pdf/{{ pdfName }}.pdf" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>#}
+        <embed src="{% static 'portfolio/resume.pdf' %}" width="900px" height="1000"/>
+{#   {% endfor %}#}
+
+
+
+    </div>
+{% endblock %}

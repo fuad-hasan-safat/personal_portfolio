@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6074446-b428-49ad-abf4-0b8afd67b8b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="0a97c2b9-1864-4ac4-adb6-93b82ebc7725" />
+  <component name="ProjectId" id="1i0zz7BIybCRSsODkXIVhwYHqHO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio/static/portfolio" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\####MYCoureses\personal_portfolio\portfolio\static\portfolio" />
+      <recent name="F:\####MYCoureses\personal_portfolio\portfolio\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\####MYCoureses\personal_portfolio\media\resume\resume" />
+      <recent name="F:\####MYCoureses\personal_portfolio\resumePage\templates" />
+      <recent name="F:\####MYCoureses\personal_portfolio\resumepage" />
+      <recent name="F:\####MYCoureses\personal_portfolio\resume\templates\resume" />
+      <recent name="F:\####MYCoureses\personal_portfolio\portfolio\static\portfolio" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="personal_portfolio" type="Python.DjangoServer" factoryName="Django server">
+      <module name="personal_portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6074446-b428-49ad-abf4-0b8afd67b8b7" name="Default Changelist" comment="" />
+      <created>1601059557171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601059557171</updated>
+      <workItem from="1601059601092" duration="52000" />
+      <workItem from="1601060623680" duration="68000" />
+      <workItem from="1601060749234" duration="1332000" />
+      <workItem from="1601062354051" duration="14512000" />
+      <workItem from="1601082101664" duration="7313000" />
+      <workItem from="1601111214426" duration="4898000" />
+      <workItem from="1601120631668" duration="2849000" />
+      <workItem from="1601146440476" duration="1809000" />
+      <workItem from="1601178028452" duration="661000" />
+      <workItem from="1601213323006" duration="1618000" />
+      <workItem from="1601350764066" duration="2683000" />
+      <workItem from="1601372973285" duration="2485000" />
+      <workItem from="1601404922293" duration="177000" />
+      <workItem from="1601620465842" duration="568000" />
+      <workItem from="1601679411333" duration="7200000" />
+      <workItem from="1601765333165" duration="963000" />
+      <workItem from="1601766320151" duration="12617000" />
+      <workItem from="1601779106834" duration="3169000" />
+      <workItem from="1601919953749" duration="11000" />
+      <workItem from="1602144673748" duration="516000" />
+      <workItem from="1602176654628" duration="1291000" />
+      <workItem from="1602236091754" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="47" key="#Inspections" timestamp="1601768782945">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1601768782945" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601778791235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601778791235" />
+    <state x="121" y="111" key="FileChooserDialogImpl" timestamp="1601081352494">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="121" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601081352494" />
+    <state x="-501" y="27" key="SettingsEditor" timestamp="1601076220528">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-501" y="27" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601076220528" />
+  </component>
+</project>
